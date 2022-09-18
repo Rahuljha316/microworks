@@ -1,0 +1,44 @@
+*{
+    font-family: 'Inter';
+    font-style: normal;
+}
+
+ul{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start ;
+    
+}
+
+ul li{
+    list-style-type: none;
+    list-style: none;
+    padding: 0 7px;
+}
+.register{
+    padding: 0 70px;
+}
+
+.filterButton{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #2264D1;
+}
+
+button{
+    color: #2264D1;;
+    background-color: white;
+}
+
+.button1{
+    /* display: flex; */
+    /* float: left; */
+    /* padding: ; */
+    margin: 0 0 0 70px;
+}
+input{
+    border-radius: 1.5rem;
+}
+
